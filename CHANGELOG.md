@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 ---
+## [unreleased]
+
+### Miscellaneous Chores
+
+- add class 3 docs - ([c38dd0d](https://github.com/tyrchen/geektime-rust-live-coding/commit/c38dd0dd7ac52df7ccecaeec4bba6bb93d402664)) - Tyr Chen
+
+---
 ## [3-5-attrs-with-darling](https://github.com/tyrchen/geektime-rust-live-coding/compare/v3-4-use-darling..v3-5-attrs-with-darling) - 2024-04-01
 
 ### Features
